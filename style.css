@@ -69,7 +69,7 @@ label{
 .anchor a:hover::after,.anchor a:hover::before{
     width: 100%;
     height: 100%;
-    background-color:magenta;
+    background-color:skyblue;
 }
 input:checked~.anchor{
     left: 0;
